@@ -1,0 +1,23 @@
+{
+    "name": "read-me-generator",
+    "version": "1.0.0",
+    "description": "Application that dynamically generates a  README.md file from a user's input",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Huzaifa-Mohammed/Read-me-generator.git"
+    },
+    "author": "Huzaifa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Huzaifa-Mohammed/Read-me-generator/issues"
+    },
+    "homepage": "https://github.com/Huzaifa-Mohammed/Read-me-generator#readme",
+    "dependencies": {
+        "email-validator": "^2.0.4",
+        "inquirer": "^8.2.0"
+    }
+}
